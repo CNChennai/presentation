@@ -7,4 +7,4 @@ Presentations from the CNC Chennai meetup event.
 | --- | --- | --- | --- | --- |
 | 22-Jan-2022 | Kyverno 101 | Oshi Gupta | https://community.cncf.io/events/details/cncf-chennai-presents-kyverno-101/ | https://cloudyuga.guru/hands_on_lab/kyverno-introduction/ |
 | 12-Feb-2022 | Litmus 101 | Prithvi Raj , Neelanjan Manna | https://community.cncf.io/events/details/cncf-chennai-presents-litmus-101/ | github.com/litmuschaos/litmus , docs.litmuschaos.io |
-| 12-Mar-2022 | Argo 101 | Brad McCoy | https://community.cncf.io/events/details/cncf-chennai-presents-argo-101/ | https://www.weave.works/technologies/gitops/ |
+| 12-Mar-2022 | Argo 101 | Brad McCoy | https://community.cncf.io/events/details/cncf-chennai-presents-argo-101/ | https://www.weave.works/technologies/gitops/ , https://github.com/bradmccoydev/argo-demo/blob/main/.github/workflows/ci.yml , |
