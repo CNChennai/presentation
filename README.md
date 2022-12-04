@@ -5,6 +5,7 @@ Presentations from the CNC Chennai meetup event.
 
 | Date  | Event Name | Speaker | Event Link | Document/Presentation |
 | --- | --- | --- | --- | --- |
+| 04-Dec-2022 | Helm 101| Abhinay Dubey | [Click here](https://community.cncf.io/events/details/cncf-chennai-presents-helm-101/) | [Coming soon]() |
 | 30-Oct-2022 | Enable ArgoCD on Google Kubernetes Engine (GKE) | Manikandan | [Click here](https://community.cncf.io/events/details/cncf-chennai-presents-enable-argocd-on-google-kubernetes-engine-gke/) | [Coming soon]() |
 | 31-July-2022 | Cassandra 101 | Aaron Ploetz | [Click here](https://community.cncf.io/events/details/cncf-chennai-presents-cassandra-101/) | [1](https://github.com/datastaxdevs/workshop-intro-to-cassandra/blob/master/slides/Presentation.pdf) |
 | 28-May-2022  | Virtual Kubernetes Cluster (vcluster) 101 |  Chidambaranathan, Raman | [Click here](https://community.cncf.io/events/details/cncf-chennai-presents-virtual-kubernetes-cluster-101/) | [1](https://github.com/kcdchennai/workshops/blob/main/vcluster-101/presentation/KCD_virtual_kubernetes_cluster.pptx) , [2](https://github.com/kcdchennai/workshops/tree/main/vcluster-101) , [3](https://www.vcluster.com/docs/what-are-virtual-clusters) |
