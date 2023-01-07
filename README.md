@@ -5,6 +5,7 @@ Presentations from the CNC Chennai meetup event.
 
 | Date  | Event Name | Speaker | Event Link | Document/Presentation |
 | --- | --- | --- | --- | --- |
+| 07-Jan-2023 | Kubernetes v1.25 Everything You Should Know - 101 session | [Senthil Raja Chermapandian](https://github.com/senthilrch) | [Click here](https://community.cncf.io/events/details/cncf-chennai-presents-kubernetes-v125-everything-you-should-know-101-session/) | [Coming soon]() |
 | 04-Dec-2022 | Helm 101| [Abhinay Dubey](https://github.com/Abhinav-26) | [Click here](https://community.cncf.io/events/details/cncf-chennai-presents-helm-101/) | [1](https://github.com/Abhinav-26/your-first-helm-chart) , [2](https://devtron.ai/blog/the-ultimate-kubernetes-dashboard-for-helm/) , [3](https://github.com/devtron-labs/devtron) , [4](https://dev.to/abhinavd26/all-about-helm-the-k8s-package-manager-2gmj) |
 | 30-Oct-2022 | Enable ArgoCD on Google Kubernetes Engine (GKE) | Manikandan | [Click here](https://community.cncf.io/events/details/cncf-chennai-presents-enable-argocd-on-google-kubernetes-engine-gke/) | [Coming soon]() |
 | 31-July-2022 | Cassandra 101 | Aaron Ploetz | [Click here](https://community.cncf.io/events/details/cncf-chennai-presents-cassandra-101/) | [1](https://github.com/datastaxdevs/workshop-intro-to-cassandra/blob/master/slides/Presentation.pdf) |
