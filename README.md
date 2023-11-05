@@ -5,6 +5,7 @@ Presentations from the CNC Chennai meetup event.
 
 | Date  | Event Name | Speaker | Event Link | Document/Presentation |
 | --- | --- | --- | --- | --- |
+| 05-Nov-2023 | Cloud Native Sustainability Week | [Akshay Dixit](https://twitter.com/kustonaut) , [Henk Van Der Valk](https://twitter.com/HenkvanderValk) | [Click here](https://community.cncf.io/events/details/cncf-chennai-presents-cloud-native-sustainability-week/) | [Coming soon]() |
 | 15-Oct-2023 | Enable Kyverno on Google Kubernetes Engine (GKE) | [Manikandan](https://twitter.com/manikandank276) | [Click here](https://community.cncf.io/events/details/cncf-chennai-presents-enable-kyverno-on-google-kubernetes-engine-gke/) | [Coming soon]() |
 | 08-Jul-2023 | Distributed Tracing using OpenTelemetry | [Dinesh Krishnan G](https://twitter.com/GDineshKrishna), [Sachin P](https://twitter.com/sachinpmenon),  | [Click here](https://community.cncf.io/events/details/cncf-chennai-presents-distributed-tracing-using-opentelemetry/) | [1](https://github.com/CncChennai/presentation/blob/master/08-Jul-2023%20-%20Distributed%20Tracing%20using%20OpenTelemetry.pdf) |
 | 10-Jun-2023 | Enable Helm chart using ArgoCD on Google Kubernetes Engine (GKE) | [Manikandan](https://twitter.com/manikandank276) | [Click here](https://community.cncf.io/events/details/cncf-chennai-presents-enable-helm-chart-using-argocd-on-google-kubernetes-engine-gke/) | [1](https://manikandank276.hashnode.dev/how-to-deploy-helm-chart-on-google-kubernetes-engine-gke-using-argocd) |
