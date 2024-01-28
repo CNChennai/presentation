@@ -5,6 +5,7 @@ Presentations from the CNC Chennai meetup event.
 
 | Date  | Event Name | Speaker | Event Link | Document/Presentation |
 | --- | --- | --- | --- | --- |
+| 06-Jan-2024 | Cloud Native Chennai - Jan 2024 Meetup | [Chandrakanth Paladugu](https://twitter.com/ChanduP_11) , [Mohan Muthukumar](https://twitter.com/extrasalt1) | [Click here](https://community.cncf.io/events/details/cncf-chennai-presents-cloud-native-chennai-jan-2024-meetup/) | [1]() |
 | 05-Nov-2023 | Cloud Native Sustainability Week | [Akshay Dixit](https://twitter.com/kustonaut) , [Henk Van Der Valk](https://twitter.com/HenkvanderValk) | [Click here](https://community.cncf.io/events/details/cncf-chennai-presents-cloud-native-sustainability-week/) | [1](https://github.com/CncChennai/presentation/tree/master/05-Nov-2023%20-%20Cloud%20Native%20Sustainability%20Week) |
 | 15-Oct-2023 | Enable Kyverno on Google Kubernetes Engine (GKE) | [Manikandan](https://twitter.com/manikandank276) | [Click here](https://community.cncf.io/events/details/cncf-chennai-presents-enable-kyverno-on-google-kubernetes-engine-gke/) | [Coming soon]() |
 | 08-Jul-2023 | Distributed Tracing using OpenTelemetry | [Dinesh Krishnan G](https://twitter.com/GDineshKrishna), [Sachin P](https://twitter.com/sachinpmenon),  | [Click here](https://community.cncf.io/events/details/cncf-chennai-presents-distributed-tracing-using-opentelemetry/) | [1](https://github.com/CncChennai/presentation/blob/master/08-Jul-2023%20-%20Distributed%20Tracing%20using%20OpenTelemetry.pdf) |
