@@ -1,5 +1,5 @@
 # Presentation
-Presentations from the CNC Chennai meetup event.
+Presentations from the Cloud Natie Chennai meetup event.
 
 ## Table of content
 
